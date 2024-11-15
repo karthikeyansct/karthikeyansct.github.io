@@ -3,7 +3,7 @@ title: "Mobility aware Socket Layer (MaSL) for seamless connectivity in mobile n
 collection: publications
 permalink: /publication/2021-paper-title-number-4
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2021
+date: 2021-07-01
 venue: '2021 IEEE Wireless Communications and Networking Conference (WCNC)'
 paperurl: 'https://ieeexplore.ieee.org/document/9417533'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
