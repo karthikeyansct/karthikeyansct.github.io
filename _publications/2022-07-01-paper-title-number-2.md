@@ -1,7 +1,7 @@
 ---
 title: "A Link-Quality Assisted Transport Layer for High-Frequency Networks"
 collection: publications
-permalink: /publication/2022-paper-title-number-2
+permalink: /publication/2022-07-01-paper-title-number-2
 date: 2022-07-01
 venue: '2022 IEEE Wireless Communications and Networking Conference (WCNC)'
 paperurl: 'https://ieeexplore.ieee.org/document/9771658'
