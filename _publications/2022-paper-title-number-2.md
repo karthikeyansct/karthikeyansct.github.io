@@ -2,7 +2,7 @@
 title: "A Link-Quality Assisted Transport Layer for High-Frequency Networks"
 collection: publications
 permalink: /publication/2022-paper-title-number-2
-date: 2022
+date: 2022-07-01
 venue: '2022 IEEE Wireless Communications and Networking Conference (WCNC)'
 paperurl: 'https://ieeexplore.ieee.org/document/9771658'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
