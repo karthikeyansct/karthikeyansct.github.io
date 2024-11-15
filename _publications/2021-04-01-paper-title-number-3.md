@@ -1,7 +1,7 @@
 ---
 title: "A Method for Enabling Context-Awareness at Transport Layer for Improved Quality-of-Service Control"
 collection: publications
-permalink: /publication/2021-paper-title-number-3
+permalink: /publication/2021-04-01-paper-title-number-3
 date: 2021-04-01
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/9529164'
