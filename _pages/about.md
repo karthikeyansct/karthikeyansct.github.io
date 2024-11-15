@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Karthikeyan Arunachalam | Lead Researcher | Senior IEEE Member | UAE Golden Visa Holder"
+title: "Karthikeyan Arunachalam - Lead Researcher - Senior IEEE Member - UAE Golden Visa Holder"
 author_profile: true
 redirect_from: 
   - /about/
