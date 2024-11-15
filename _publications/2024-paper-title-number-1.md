@@ -1,7 +1,7 @@
 ---
 title: "A Machine Learning-Based Link Quality Assistance at Transport Layer for High-Frequency Networks"
 collection: publications
-permalink: /publication/2024-paper-1
+permalink: /publication/2024-paper-title-number-1
 date: 2024-07-01
 venue: 'ICC 2024 - IEEE International Conference on Communications'
 paperurl: 'https://ieeexplore.ieee.org/document/10622673'
