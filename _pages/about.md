@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Karthikeyan Arunachalam | Lead Researcher | Senior IEEE Member | UAE Golden Visa Holder"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Summary
 ======
 I am Karthikeyan Arunachalam, with over 19 years of combined industry and research experience in the design, development, and enhancement of the internet protocol suite (TCP/IP) and related applications. My expertise includes extensive hands-on experience in system programming, encompassing socket programming, multi-threading, and network protocols across Layers 2 to 7 of the OSI model.
