@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Patents"
-permalink: /Patents/
+title: "patents"
+permalink: /patents/
 author_profile: true
 ---
 
