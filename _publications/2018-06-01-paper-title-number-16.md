@@ -2,7 +2,7 @@
 title: "Layer 4 Accelerator (L4A) for Optimizing Network Protocol Latencies in Mobile Devices"
 collection: publications
 permalink: /publication/2018-06-01-paper-title-number-16
-excerpt: The paper proposes Layer 4 Accelerator (L4A), a client-side solution designed to reduce connectivity overheads such as DNS lookup, TCP handshake, and SSL/TLS certificate exchange. L4A improves page loading and content downloading times, consistently enhancing user experience by 20-30% on devices like the Samsung Galaxy S7 and S8.'
+excerpt: 'The paper proposes Layer 4 Accelerator (L4A), a client-side solution designed to reduce connectivity overheads such as DNS lookup, TCP handshake, and SSL/TLS certificate exchange. L4A improves page loading and content downloading times, consistently enhancing user experience by 20-30% on devices like the Samsung Galaxy S7 and S8.'
 date: 2018-06-01
 venue: 'HPCC, IEEE 20th International Conference on High Performance Computing and Communications, Exeter, UK'
 paperurl: 'https://ieeexplore.ieee.org/document/8622827'
