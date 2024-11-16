@@ -9,18 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lead Researcher – Secure Authentication & Authorization
+  * Technology Innovation Institute, Abu Dhabi, UAE.
+  * Feb 2023 – Present
+  * Working as a Lead Researcher at the Secure Systems Research Center (SSRC), with a focus on advancing network security and secure communication protocols. Primary responsibilities include developing research proposals and publishing findings on secure technologies.
 
 * Fall 2015: Research Assistant
   * Github University
