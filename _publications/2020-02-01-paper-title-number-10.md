@@ -2,7 +2,7 @@
 title: "Novel MultiPipe QUIC Protocols to Enhance the Wireless Network Performance"
 collection: publications
 permalink: /publication/2020-02-01-paper-title-number-10
-excerpt: 'The paper proposes two novel MultiPipe QUIC protocols, RR-MP-QUIC and CBA-MP-QUIC, to address wireless network challenges and enhance QUIC's performance. These protocols optimize data transmission by leveraging multiple sessions and cross-layer awareness, significantly improving web page load times in live network environments.'
+excerpt: 'The paper proposes two novel MultiPipe QUIC protocols, RR-MP-QUIC and CBA-MP-QUIC, to address wireless network challenges and enhance QUICs performance. These protocols optimize data transmission by leveraging multiple sessions and cross-layer awareness, significantly improving web page load times in live network environments.'
 date: 2020-02-01
 venue: 'IEEE Wireless Communications and Networking Conference (WCNC), Seoul, Korea (South)'
 paperurl: 'https://ieeexplore.ieee.org/document/9120821'
