@@ -1,0 +1,11 @@
+---
+title: "Reducing User Perceived Latency in Smart Phones Exploiting IP Network Diversity"
+collection: publications
+permalink: /publication/2020-06-01-paper-title-number-8
+excerpt: 'The paper presents NexGen Connectivity Optimizer (NexGenCO), a solution to reduce user-perceived latency in dual-stack networks by optimizing DNS resolution and TCP connection phases. By leveraging concurrency and intelligent caching, NexGenCO enhances connectivity and improves page loading times, as demonstrated through real-world implementation and evaluation.'
+date: 2020-06-01
+venue: 'Journal, IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/document/9159574'
+---
+
+The Fifth Generation (5G) wireless networks set its standard to provide very high data rates, Ultra-Reliable Low Latency Communications (URLLC), and significantly improved Quality of Service (QoS). 5G networks and beyond will power up billions of connected devices as it expands wireless services to edge computing and the Internet of Things (IoT). The Internet protocol suite continues its evolution from IPv4 addresses to IPv6 addresses by increasing the adoption rate and prioritizing IPv6. Hence, Internet Service Providers (ISP's) are using the address transition method called dual-stack to prioritize the IPv6 while supporting the existing IPv4. But this causes more connectivity overhead in dual-stack as compared to the single-stack network due to its preference schema towards the IPv6. The dual-stack network increases the Domain Name System (DNS) resolution and Transmission Control Protocol (TCP) connection time that results in higher page loading time, thereby significantly impacting the user experience. Hence, we propose a novel connectivity mechanism, called NexGen Connectivity Optimizer (NexGenCO), which redesigns the DNS resolution and TCP connection phases to reduce the user-perceived latency in the dual-stack network for mobile devices. Our solution utilizes the IP network diversity to improve connectivity through concurrency and intelligent caching. NexGenCO is successfully implemented in Samsung flagship devices with Android Pie and further evaluated using both simulated and live-air networks. It significantly reduces connectivity overhead and improves page loading time up to 18%.
