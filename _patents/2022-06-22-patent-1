@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Methods and systems for determining ICN capability of a node/server"
+collection: patents
+permalink: /patents/2022-06-22-patent-1
+excerpt: 'The patent describes methods to identify the Information-Centric Networking (ICN) capability of servers or nodes using DNS resource records and TCP options. It enables efficient server selection for ICN packet transfer based on DNS query responses, server locations, priorities, and TCP header parameters.'
+date: 2022-06-22
+paperurl: 'https://patents.google.com/patent/US11368365B2'
+author_profile: true
+---
+
+**Patent Number (Granted): US11368365B2**
+
+Methods and systems for determining ICN capability of a node/server. The ICN capability is determined based on DNS resource records or TCP options. The DNS resource records are DNS queries that are sent to a DNS server, for determining the ICN capability of the server. The DNS query includes a content to indicate the intent to determine the ICN capability. If the server is having ICN capability, a DNS response is received from the DNS server, which includes the content that is identical to the content in the DNS query. A server is selected, amongst multiple servers, for transferring ICN packets, based on locations and priorities of the multiple servers, indicated in DNS responses, and an order of issuance of DNS queries to the DNS server. TCP options in the header of TCP packets are used for determining ICN capability of the nodes/servers and parameters pertaining to the ICN capability.
+
+[For more information, Please visit Google Patent](https://patents.google.com/patent/US11368365B2)
