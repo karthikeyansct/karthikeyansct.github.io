@@ -1,0 +1,11 @@
+---
+title: "Optimizing TCP zero window probes for power saving in smart devices"
+collection: publications
+permalink: /publication/2018-01-01-paper-title-number-19
+excerpt: 'This paper investigates how TCP flow control, specifically the Zero Window Probes (ZWPs), impacts smartphone battery life by increasing signaling overhead and radio ON time during video streaming or downloads. The authors propose a solution to prevent unnecessary packet communication caused by prolonged ZWPs, achieving consistent power gains of 10-15% in Android devices.'
+date: 2018-01-01
+venue: 'IEEE Wireless Communications and Networking Conference (WCNC), Barcelona, Spain'
+paperurl: 'https://ieeexplore.ieee.org/document/8376966'
+---
+
+Smart phones have made our life easier by providing 24×7 connectivity to Internet. But, the battery capacity is a major setback for Internet connected Smart phones. We know that TCP is the backbone protocol for these Internet data transmissions. In this paper, we studied the impacts of TCP flow control mechanism on battery life. Generally, TCP flow control mechanism is used to avoid buffer overflow at the receiver and is achieved by advertising the receive buffer size as TCP window to the sender. When sender receives zero TCP window, it stops sending data and starts sending probes to receiver till space opens up in the input window. During our study, we observed some abnormal behavior, whenever video streaming or downloads were interrupted. We found that there were prolonged TCP Zero Window Probes(ZWPs) from the sender which lead to increased signalling overhead and radio ON time at receiver. This phenomenon causes unwanted battery drain. To address this particular problem, we propose a solution that prevents unnecessary packet communication due to ZWPs. We have implemented our solution for Android devices and analyzed the performance extensively based on real time measurements. In our experiments, we could achieve 10-15% of power gain consistently in smart phones.
