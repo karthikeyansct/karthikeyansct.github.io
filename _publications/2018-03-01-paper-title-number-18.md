@@ -1,0 +1,11 @@
+---
+title: "Optimal server selection policy for improved network efficiency in smart phones"
+collection: publications
+permalink: /publication/2018-03-01-paper-title-number-18
+excerpt: 'This paper proposes a new approach for selecting mirror servers in multimedia content delivery by considering multiple factors such as Round Trip Time (RTT), TCP connect time, throughput, and retransmissions. The proposed server selection policy aims to optimize user experience by choosing the best server based on these criteria, leading to reduced RTT, fewer retransmissions, better throughput, and lower energy consumption on Android devices.'
+date: 2018-03-01
+venue: 'IEEE Wireless Communications and Networking Conference (WCNC), Barcelona, Spain'
+paperurl: 'https://ieeexplore.ieee.org/document/8376947'
+---
+
+Multimedia contents of the popular applications are downloaded generally from the mirror servers. The contents are stored in mirror servers for load balancing. The method of selecting a particular mirror server over other affects the throughput and user experience. The present domain name server (DNS) look up based mirror server selection generally picks up the server from the top of the look up list which is not optimal in most cases. In this paper we propose an alternative mirror server selection policy by constraining the Round Trip Time (RTT), TCP connect time, average throughput and number of retransmissions. The server with the satisfiable values for all the metrics will be chosen as optimal server. The metrics are applied as per preference. If more than one server satisfies all the criteria then a best server is identified from the group which has minimal RTT and connection establishment time. If no server satisfies all the criteria, then the servers which satisfy sub set of criteria will be selected and from that one sub optimal server will be chosen which has minimal RTT and connection establishment time. Our proposed solution is simple, implementable and tested for Android based devices. From the test measurements, we observe that, our proposed policy could achieve better performance in terms of reduced RTT, number of retransmissions, average throughput and energy consumptions.
