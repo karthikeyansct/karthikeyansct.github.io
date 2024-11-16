@@ -7,6 +7,9 @@ author_profile: true
 
 ## Profiles & Research Contributions
 
+### [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=57202739171)
+Karthikeyan Arunachalam's Scopus author page includes an extensive list of his research works, citations, and contributions to various scientific fields, offering insights into his academic impact.
+
 ### [Web of Science](https://www.webofscience.com/wos/author/record/AAD-3081-2020)
 Karthikeyan Arunachalam's author record on Web of Science includes a comprehensive list of his research works, citations, and contributions to the field. It provides insight into his impact on scientific communities.
 
@@ -18,6 +21,5 @@ Semantic Scholar showcases a detailed profile of Karthikeyan Arunachalam, includ
 
 ### [AdScientificIndex Profile](https://www.adscientificindex.com/scientist/karthikeyan-arunachalam/4597477)
 The AdScientificIndex page highlights Karthikeyan Arunachalam's academic and professional achievements, offering insights into his research impact and contributions.
-
 
 For more details about his research and publications, visit the provided links.
