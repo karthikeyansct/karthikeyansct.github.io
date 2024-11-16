@@ -4,7 +4,8 @@ main:
     url: /publications/
 
   - title: "Patents"
-    url: /patents/    
-
- - title: "Work Experience"
-    url: /cv/
+    url: /patents/   
+    
+  - title: "Work Experience"
+    url: /cv/ 
+    
