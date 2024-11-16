@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-03-01-paper-title-number-5
 excerpt: 'This paper introduces Computational and Location-Aware Middleware (CLM), a solution for seamless edge server discovery and computational offloading in 5G and B5G networks. CLM eliminates the need for application changes, reducing discovery overhead and significantly improving performance, as demonstrated on prototyped devices.'
 date: 2021-03-01
-venue: 'IEEE 18th Annual Consumer Communications & Networking Conference (CCNC)'
+venue: 'IEEE 18th Annual Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA'
 paperurl: 'https://ieeexplore.ieee.org/document/9369522'
 ---
 
