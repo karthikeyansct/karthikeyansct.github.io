@@ -35,7 +35,7 @@ Work experience
 * Protechsoft Technologies Pvt. Ltd, Chennai, India
   * Software Engineer 
   * May 2005 - Jul 2008 (3 years 3 months)
-  *Worked as a developer in a product called gBoxz which provides enterprise network services and applications. The primary responsibilities are the design & development of the server modules of gBoxz such as messaging, web, and mail servers.
+  * Worked as a developer in a product called gBoxz which provides enterprise network services and applications. The primary responsibilities are the design & development of the server modules of gBoxz such as messaging, web, and mail servers.
   
 Skills
 ======
@@ -47,14 +47,22 @@ Skills
 *	Profiling & Debugging: GDB, tcpdump, wireshark, strace, valgrind, gcov, and more
 *	Configuration Management: GIT, SVN, perforce, and automation test tools for continuous integration.
 
+Education
+======
+* Anna University
+  * B.Tech, Information Technology
+    * Aug 2001 - Apr 2005
+    * Secured B.Tech degree from Anna University, First class with distinction
+
+Patents
+======
+  <ul>{% for post in site.patents reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
