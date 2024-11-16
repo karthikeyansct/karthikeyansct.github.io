@@ -1,0 +1,11 @@
+---
+title: "Redundant TCP Connector (RTC) for Improving the Performance of Mobile Devices"
+collection: publications
+permalink: /publication/2019-12-01-paper-title-number-12
+excerpt: 'The paper introduces Redundant TCP Connector (RTC), a client-side solution that improves content downloading times by dynamically selecting the best network path through multiple interfaces. RTC reduces latency and optimizes network utilization, achieving consistent performance improvements in real-world mobile environments.'
+date: 2019-12-01
+venue: 'IEEE Wireless Communications and Networking Conference (WCNC), Marrakesh, Morocco'
+paperurl: 'https://ieeexplore.ieee.org/document/8885889'
+---
+
+The primary focus of Next Generation Networks (NGN) is towards improving the performance by reducing latency in the network, increasing peak throughput and improving spectral efficiencies. Even though Fifth Generation (5G) network set its standard to lower the latency, the existing TCP/IP protocol suite imparts significant overhead to Next Generation Transport Layer. For example, the web contents are hosted across multiple content servers redundantly, which can be accessed using different network interfaces available in the client device. These mirror servers connected with different network interfaces will have different network path quality. The network path quality for any server changes based on user mobility, type of network interface (Wi-Fi/Cellular) and congestion in the path. In general, this network path quality impacts the RTT of the network which affects the content downloading time for all applications. At any situation, the client application does not know the best network path available at the moment. Hence, we propose a novel solution called Redundant TCP Connector (RTC) which establishes simultaneous connection using multiple network interfaces available and dynamically connects to the best estimated network path at any moment. RTC is a lightweight client only software solution which is prototyped in Samsung flagship models with Android O. RTC significantly improves content downloading time by 10% to 15% consistently.
