@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-07-01-paper-title-number-1
 excerpt: 'This paper proposes ML-CLI, a machine-learning approach to enhance transport layer performance in high-frequency bands by improving adaptability to dynamic link conditions.'
 date: 2024-07-01
-venue: 'ICC 2024 - IEEE International Conference on Communications'
+venue: 'ICC 2024 - IEEE International Conference on Communications, Denver, CO, USA'
 paperurl: 'https://ieeexplore.ieee.org/document/10622673'
 ---
 
