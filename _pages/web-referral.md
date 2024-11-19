@@ -10,6 +10,9 @@ author_profile: true
 ### [IEEE Xplore Author Profile](https://ieeexplore.ieee.org/author/37086397373)
 The IEEE Xplore profile provides an authoritative record of Karthikeyan Arunachalam's published research in IEEE journals and conferences. It reflects his contributions to topics like network security, secure communication protocols, and system optimization.
 
+### [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=57202739171)
+Karthikeyan Arunachalam's Scopus author page includes an extensive list of his research works, citations, and contributions to various scientific fields, offering insights into his academic impact.
+
 ### [ResearchGate Profile](https://www.researchgate.net/profile/Karthikeyan-Arunachalam-2)
 ResearchGate showcases Karthikeyan Arunachalam's research works, citations, and collaborations. It serves as a platform for engaging with his research, exploring his contributions, and connecting with other professionals in his field.
 
