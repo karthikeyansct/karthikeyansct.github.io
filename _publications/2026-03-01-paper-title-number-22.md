@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-03-01-paper-title-number-22
 excerpt: 'Designed POLYNIX, a distributed zero-trust security framework integrating OPA and eBPF-based enforcement for dynamic cloud-edge-device environments, delivering real-time policy updates with minimal performance overhead.
 '
-date: 2025-03-01
+date: 2026-04-01
 venue: 'CCNC 2026 - IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA'
 paperurl: 'https://ieeexplore.ieee.org/document/11366307'
 ---
