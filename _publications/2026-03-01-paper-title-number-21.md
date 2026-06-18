@@ -2,7 +2,8 @@
 title: "TRIP-B5G: Traffic classification and Resource allocation using Intelligent PPO in B5G O-RAN"
 collection: publications
 permalink: /publication/2026-03-01-paper-title-number-21
-excerpt: 'Developed a smartphone-based pedestrian safety system that utilizes IR-UWB radar and AI/ML techniques to detect obstacles and terrain features in real time. The proposed solution achieved up to 97% obstacle detection accuracy and 95% classification accuracy while maintaining low-latency operation for enhanced situational awareness.'
+excerpt: 'Developed TRIP-B5G, an AI-native O-RAN framework that combines machine learning and reinforcement learning for slice-aware radio resource allocation in Beyond 5G networks. The solution improved eMBB throughput by up to 25%, reduced URLLC latency by 28%, increased mMTC access success by 15%, and reclaimed over 90% of idle radio resources.
+'
 date: 2025-03-01
 venue: 'CCNC 2026 - IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA'
 paperurl: 'https://ieeexplore.ieee.org/document/11366373'
