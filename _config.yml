@@ -98,10 +98,14 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type: Person
+  name: Karthikeyan Arunachalam
+  links:
+    - https://scholar.google.co.in/citations?user=Yd-LwI0AAAAJ
+    - https://orcid.org/0000-0002-0917-3616
+    - https://www.linkedin.com/in/karthikeyan-arunachalam
+    - https://www.researchgate.net/profile/Karthikeyan-Arunachalam-2
+    - https://github.com/karthikeyansct
 
 # Analytics
 analytics:
