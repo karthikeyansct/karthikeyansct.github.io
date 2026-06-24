@@ -2,7 +2,7 @@
 layout: archive
 title: "Method and system for channel quality assisted transport in wireless network"
 collection: patents
-permalink: /patents/2025-06-17-patent-12
+permalink: /patents/2025-06-17-method-and-system-for-channel-quality-assisted-transport-in-wireless-network-12
 excerpt: 'Developed a patented Channel Quality Assisted (CQA) transport framework that enhances TCP performance in wireless networks through real-time channel quality monitoring and adaptive transport-layer optimization.'
 date: 2025-06-17
 paperurl: 'https://patents.google.com/patent/US12335769B2'
