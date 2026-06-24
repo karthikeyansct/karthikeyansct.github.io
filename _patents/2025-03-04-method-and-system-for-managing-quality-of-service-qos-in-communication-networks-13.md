@@ -2,7 +2,7 @@
 layout: archive
 title: "Method and system for managing quality-of-service (qos) in communication networks"
 collection: patents
-permalink: /patents/2025-03-04-patent-13
+permalink: /patents/2025-03-04-method-and-system-for-managing-quality-of-service-qos-in-communication-networks-13
 excerpt: 'Developed a patented QoS management solution that dynamically classifies and prioritizes application traffic flows based on application-aware analysis, improving service quality and network efficiency.'
 date: 2025-03-04
 paperurl: 'https://patents.google.com/patent/US20220369153A1'
