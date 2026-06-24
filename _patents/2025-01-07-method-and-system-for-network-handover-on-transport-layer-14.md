@@ -2,7 +2,7 @@
 layout: archive
 title: "Method and system for network handover on transport layer"
 collection: patents
-permalink: /patents/2025-01-07-patent-14
+permalink: /patents/2025-01-07-method-and-system-for-network-handover-on-transport-layer-14
 excerpt: 'Developed a patented session continuity framework that enables seamless migration of application data sessions across network interfaces through dynamic socket remapping, minimizing service disruption during network handovers.'
 date: 2025-01-07
 paperurl: 'https://patents.google.com/patent/US12192840B2'
