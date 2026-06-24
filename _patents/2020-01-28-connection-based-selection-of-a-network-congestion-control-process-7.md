@@ -2,7 +2,7 @@
 layout: archive
 title: "Connection based selection of a network congestion control process"
 collection: patents
-permalink: /patents/2020-01-28-patent-7
+permalink: /patents/2020-01-28-connection-based-selection-of-a-network-congestion-control-process-7
 excerpt: 'The patent describes a method for selecting a network congestion control process based on the specific connection characteristics in a communication network. It aims to optimize data transmission by dynamically choosing the most appropriate congestion control algorithm based on real-time network conditions, enhancing performance and reliability.'
 date: 2020-01-28
 paperurl: 'https://patents.google.com/patent/US20190222520A1'
