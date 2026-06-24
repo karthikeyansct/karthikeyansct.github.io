@@ -2,7 +2,7 @@
 layout: archive
 title: "Method and apparatus for controlling TCP packets in communication system"
 collection: patents
-permalink: /patents/22019-06-18-method-and-apparatus-for-controlling-tcp-packets-in-communication-system-9
+permalink: /patents/2019-06-18-method-and-apparatus-for-controlling-tcp-packets-in-communication-system-9
 excerpt: 'The patent describes a method to optimize TCP connection handling, focusing on reducing signaling overhead and improving connection closure management. It addresses issues such as delayed socket releases and unnecessary retransmissions, enhancing efficiency in wireless communication systems by controlling TCP packets during transitions between active and idle states.'
 date: 2019-06-18
 paperurl: 'https://patents.google.com/patent/US10327206B2'
