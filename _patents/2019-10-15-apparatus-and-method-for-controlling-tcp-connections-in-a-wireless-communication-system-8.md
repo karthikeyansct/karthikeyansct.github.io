@@ -2,7 +2,7 @@
 layout: archive
 title: "Apparatus and method for controlling TCP connections in a wireless communication system"
 collection: patents
-permalink: /patents/2019-10-15-patent-8
+permalink: /patents/2019-10-15-apparatus-and-method-for-controlling-tcp-connections-in-a-wireless-communication-system-8
 excerpt: 'The patent introduces methods for controlling TCP connections in wireless communication systems to improve battery life by minimizing unnecessary power consumption. It focuses on proactive and batch closure techniques to handle server-initiated TCP terminations, optimizing network resource usage without compromising the device functionality or user experience.'
 date: 2019-10-15
 paperurl: 'https://patents.google.com/patent/US10448329B2'
