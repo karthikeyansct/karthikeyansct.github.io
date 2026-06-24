@@ -2,7 +2,7 @@
 layout: archive
 title: "Method and system for discovering edge-server or edge-service through domain name server (DNS) resolution"
 collection: patents
-permalink: /patents/2024-04-16-patent-10
+permalink: /patents/2024-04-16-method-and-system-for-discovering-edge-server-or-edge-service-through-domain-name-server-dns-resolution-10
 excerpt: 'This patent outlines a method for discovering edge servers and services in a mobile edge computing (MEC) platform using DNS resolution. It involves a user equipment (UE) sending a DNS query to access web-based services, receiving a response from the DNS server with details about available edge or remote servers, and evaluating those servers based on associated services and proximity to the UE to optimize service delivery.'
 date: 2024-04-16
 paperurl: 'https://patents.google.com/patent/US11962656B2'
