@@ -2,7 +2,7 @@
 layout: archive
 title: "Apparatus and method for establishing connection and CLAT aware affinity (CAA)-based scheduling in multi-core processor"
 collection: patents
-permalink: /patents/2023-03-14-patent-11
+permalink: /patents/2023-03-14-apparatus-and-method-for-establishing-connection-and-clat-aware-affinity-caa-based-scheduling-in-multi-core-processor-11
 excerpt: 'This patent describes a method for scheduling network packets based on CLAT Aware Affinity (CAA) using a multi-core processor in a user equipment (UE). It involves the CAA scheduler analyzing the packets path characteristics, determining the appropriate IPv4 or IPv6 connection, and scheduling the packet to the relevant server, while classifying and distributing the packet across the processor cores for efficient handling.'
 date: 2023-03-14
 paperurl: 'https://patents.google.com/patent/US11606418B2'
