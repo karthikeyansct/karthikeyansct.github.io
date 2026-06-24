@@ -2,7 +2,7 @@
 layout: archive
 title: "Method and system for MPQUIC over QSOCKS in wireless network"
 collection: patents
-permalink: /patents/2022-08-23-patent-3
+permalink: /patents/2022-08-23-method-and-system-for-mpquic-over-qsocks-in-wireless-network-3
 excerpt: 'The patent describes a method and system for implementing Multipath QUIC (MPQUIC) over QSOCKS in wireless networks to optimize data transmission. It leverages multipath capabilities and efficient routing to enhance network performance, reliability, and seamless communication in wireless environments.'
 date: 2022-08-23
 paperurl: 'https://patents.google.com/patent/US11425565B2'
