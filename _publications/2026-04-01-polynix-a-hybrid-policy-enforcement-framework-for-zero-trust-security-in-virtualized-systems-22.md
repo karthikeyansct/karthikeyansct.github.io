@@ -1,7 +1,7 @@
 ---
 title: "POLYNIX: A Hybrid Policy Enforcement Framework for Zero-Trust Security in Virtualized Systems"
 collection: publications
-permalink: /publication/2026-03-01-polynix-22
+permalink: /publication/2026-04-01-polynix-a-hybrid-policy-enforcement-framework-for-zero-trust-security-in-virtualized-systems-22
 excerpt: 'Designed POLYNIX, a distributed zero-trust security framework integrating OPA and eBPF-based enforcement for dynamic cloud-edge-device environments, delivering real-time policy updates with minimal performance overhead.
 '
 date: 2026-04-01
