@@ -12,4 +12,5 @@ doi: '10.1109/WCNC65185.2026.11555529'
 Multicast forwarding in wireless mesh networks is often bandwidth-inefficient and unreliable over low-rate links such as IEEE 802.11ah (HaLow). BATMAN-adv, a Layer-2 Mesh Routing Protocol, handles multicast by either flooding packets or converting them into multiple unicasts. While effective in high-rate networks, these approaches create severe redundancy and congestion in constrained environments. We propose a reverse-path-aware multicast optimization for BATMAN-adv that transmits multicast packets as broadcasts and selectively rebroadcasts them only when a node lies on the reverse routing path. This design leverages BATMAN-adv's Originator Message (OGM) based routing state for forwarding decisions without adding control overhead. Testbed experiments over HaLow network show up to 90% reduction in broadcast overhead in dense topologies while maintaining high delivery ratios. To enhance performance under loss-prone links, we also include an optional lightweight redundancy mechanism that duplicates multicast packets at the source, improving reliability for real-time traffic without retransmissions or protocol modifications.
 
 ## Links
-- IEEE Xplore: https://ieeexplore.ieee.org/document/11555529
+
+- IEEE Xplore: [https://ieeexplore.ieee.org/document/11555529](https://ieeexplore.ieee.org/document/11555529)
