@@ -1,7 +1,7 @@
 ---
 title: "IR-UWB Radar-Based Situational Awareness System for Smartphone-Distracted Pedestrians"
 collection: publications
-permalink: /publication/2025-05-01-ir-uwb-radar-based-situational-awareness-system-for-smartphone-distracted-pedestrians-20.md
+permalink: /publication/2025-05-01-ir-uwb-radar-based-situational-awareness-system-for-smartphone-distracted-pedestrians-20
 excerpt: 'Developed a smartphone-based pedestrian safety system that utilizes IR-UWB radar and AI/ML techniques to detect obstacles and terrain features in real time. The proposed solution achieved up to 97% obstacle detection accuracy and 95% classification accuracy while maintaining low-latency operation for enhanced situational awareness.'
 date: 2025-05-01
 venue: 'CCNC 2025 - IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA'
