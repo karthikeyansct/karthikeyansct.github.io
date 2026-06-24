@@ -2,7 +2,7 @@
 layout: archive
 title: "Method and system for handling data path creation in wireless network system"
 collection: patents
-permalink: /patents/2022-04-26-patent-4
+permalink: /patents/2022-04-26-method-and-system-for-handling-data-path-creation-in-wireless-network-system-4
 excerpt: 'The patent outlines a method and system for efficiently handling data path creation in wireless network systems, focusing on optimizing data transmission and reducing latency. It involves techniques to dynamically establish, manage, and maintain data paths between devices, improving network performance and reliability.'
 date: 2022-04-26
 paperurl: 'https://patents.google.com/patent/US11317456B2'
