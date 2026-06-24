@@ -2,7 +2,7 @@
 layout: archive
 title: "Apparatus and method for transmitting and receiving data based on an identified event in wireless communication system"
 collection: patents
-permalink: /patents/2021-10-19-patent-6
+permalink: /patents/2021-10-19-apparatus-and-method-for-transmitting-and-receiving-data-based-on-an-identified-event-in-wireless-communication-system-6
 excerpt: 'The patent describes an apparatus and method for transmitting and receiving data based on the detection of specific events in a wireless communication system. It focuses on optimizing data transmission by triggering communication processes only when certain predefined events occur, enhancing efficiency and reducing unnecessary traffic.'
 date: 2021-10-19
 paperurl: 'https://patents.google.com/patent/US11153779B2'
