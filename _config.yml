@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Karthikeyan Arunachalam | TCP/IP & Network Communication Protocol Expert"
+title                    : "Karthikeyan Arunachalam | Network Communication Protocol Expert | TCP/IP Researcher"
 title_separator          : "-"
 name                     : &name "Karthikeyan Arunachalam"
-description              : &description "Lead Researcher | Senior IEEE Member | UAE Golden VISA Holder"
+description              : &description "Karthikeyan Arunachalam is a Lead Researcher specializing in Network Communication Protocols, TCP/IP, Network Security, Secure Communication Protocols, and System Programming. IEEE Senior Member with 20+ publications and 10+ granted U.S. patents."
 url                      : https://karthikeyansct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karthikeyansct/karthikeyansct.github.io"
