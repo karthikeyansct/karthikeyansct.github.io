@@ -2,7 +2,7 @@
 layout: archive
 title: "A method and apparatus for reducing latency of network protocols"
 collection: patents
-permalink: /patents/2022-03-29-patent-5
+permalink: /patents/2022-03-29-a-method-and-apparatus-for-reducing-latency-of-network-protocols-5
 excerpt: 'The patent describes a method and apparatus for reducing latency in network protocols by optimizing the transmission of data between devices. It involves techniques for improving network efficiency and responsiveness, enhancing the performance of protocols through reduced delays and faster communication.'
 date: 2022-03-29
 paperurl: 'https://patents.google.com/patent/US20200236139A1'
