@@ -50,12 +50,11 @@ Skills
 *	Profiling & Debugging: GDB, tcpdump, wireshark, strace, valgrind, gcov, and more
 *	Configuration Management: GIT, SVN, perforce, and automation test tools for continuous integration.
 
-Education
+Publications
 ======
-* Anna University
-  * B.Tech, Information Technology
-    * Aug 2001 - Apr 2005
-    * Secured B.Tech degree from Anna University, First class with distinction
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Patents
 ======
@@ -63,8 +62,9 @@ Patents
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Publications
+Education
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Anna University
+  * B.Tech, Information Technology
+    * Aug 2001 - Apr 2005
+    * Secured B.Tech degree from Anna University, First class with distinction
