@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Karthikeyan Arunachalam"
+title: "Network Communication Protocol Expert | Researcher | Inventor"
 description: "Karthikeyan Arunachalam is a Lead Researcher specializing in TCP/IP, Network Communication Protocols, Network Security, Secure Communication Protocols, and System Programming. IEEE Senior Member with 20+ publications and 10+ granted U.S. patents."
 author_profile: true
 redirect_from: 
