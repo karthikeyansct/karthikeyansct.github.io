@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and apparatus for controlling TCP packets in communication system"
 collection: patents
 permalink: /patents/2019-06-18-method-and-apparatus-for-controlling-tcp-packets-in-communication-system-9
