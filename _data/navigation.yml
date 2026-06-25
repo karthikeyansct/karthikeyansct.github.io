@@ -6,8 +6,5 @@ main:
   - title: "Patents"
     url: /patents/   
     
-  - title: "Experience"
-    url: /cv/ 
-    
   - title: "Web Referrals"
     url: /web-referral/ 
