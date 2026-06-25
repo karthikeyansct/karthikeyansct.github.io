@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and system for channel quality assisted transport in wireless network"
 collection: patents
 permalink: /patents/2025-06-17-method-and-system-for-channel-quality-assisted-transport-in-wireless-network-12
