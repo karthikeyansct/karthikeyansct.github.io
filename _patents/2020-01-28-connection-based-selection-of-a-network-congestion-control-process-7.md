@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Connection based selection of a network congestion control process"
 collection: patents
 permalink: /patents/2020-01-28-connection-based-selection-of-a-network-congestion-control-process-7
