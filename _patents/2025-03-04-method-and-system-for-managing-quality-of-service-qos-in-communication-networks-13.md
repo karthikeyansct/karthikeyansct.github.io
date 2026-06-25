@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and system for managing quality-of-service (qos) in communication networks"
 collection: patents
 permalink: /patents/2025-03-04-method-and-system-for-managing-quality-of-service-qos-in-communication-networks-13
