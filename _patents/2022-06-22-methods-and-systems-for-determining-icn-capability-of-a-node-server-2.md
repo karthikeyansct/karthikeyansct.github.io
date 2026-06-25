@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Methods and systems for determining ICN capability of a node/server"
 collection: patents
 permalink: /patents/2022-06-22-methods-and-systems-for-determining-icn-capability-of-a-node-server-2
