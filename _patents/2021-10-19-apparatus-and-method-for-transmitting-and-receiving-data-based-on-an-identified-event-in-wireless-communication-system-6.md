@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Apparatus and method for transmitting and receiving data based on an identified event in wireless communication system"
 collection: patents
 permalink: /patents/2021-10-19-apparatus-and-method-for-transmitting-and-receiving-data-based-on-an-identified-event-in-wireless-communication-system-6
