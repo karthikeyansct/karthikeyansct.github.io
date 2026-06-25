@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Apparatus and method for establishing connection and CLAT aware affinity (CAA)-based scheduling in multi-core processor"
 collection: patents
 permalink: /patents/2023-03-14-apparatus-and-method-for-establishing-connection-and-clat-aware-affinity-caa-based-scheduling-in-multi-core-processor-11
