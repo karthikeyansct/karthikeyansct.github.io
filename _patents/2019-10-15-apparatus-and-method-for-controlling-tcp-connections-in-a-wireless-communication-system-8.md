@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Apparatus and method for controlling TCP connections in a wireless communication system"
 collection: patents
 permalink: /patents/2019-10-15-apparatus-and-method-for-controlling-tcp-connections-in-a-wireless-communication-system-8
