@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and system for discovering edge-server or edge-service through domain name server (DNS) resolution"
 collection: patents
 permalink: /patents/2024-04-16-method-and-system-for-discovering-edge-server-or-edge-service-through-domain-name-server-dns-resolution-10
