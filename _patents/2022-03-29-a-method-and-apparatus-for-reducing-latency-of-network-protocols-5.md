@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "A method and apparatus for reducing latency of network protocols"
 collection: patents
 permalink: /patents/2022-03-29-a-method-and-apparatus-for-reducing-latency-of-network-protocols-5
