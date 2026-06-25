@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and system for handling data path creation in wireless network system"
 collection: patents
 permalink: /patents/2022-04-26-method-and-system-for-handling-data-path-creation-in-wireless-network-system-4
