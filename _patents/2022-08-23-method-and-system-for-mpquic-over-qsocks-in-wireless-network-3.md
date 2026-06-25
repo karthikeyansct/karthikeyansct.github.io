@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and system for MPQUIC over QSOCKS in wireless network"
 collection: patents
 permalink: /patents/2022-08-23-method-and-system-for-mpquic-over-qsocks-in-wireless-network-3
