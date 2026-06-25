@@ -65,16 +65,7 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      {% include post_pagination.html %}
-
-      {% if page.collection == 'publications' %}
-          <div style="text-align:right; margin-top:10px;">
-             <a href="{{ base_path }}/publications/" class="btn btn--primary">
-            Back
-             </a>
-          </div>
-      {% endif %}
-      
+      {% include post_pagination.html %}      
     </div>
 
     {% if site.comments.provider and page.comments %}
