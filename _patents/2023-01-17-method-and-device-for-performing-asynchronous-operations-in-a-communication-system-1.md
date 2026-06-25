@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and device for performing asynchronous operations in a communication system"
 collection: patents
 permalink: /patents/2023-01-17-method-and-device-for-performing-asynchronous-operations-in-a-communication-system-1
