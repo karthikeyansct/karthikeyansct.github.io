@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Method and system for network handover on transport layer"
 collection: patents
 permalink: /patents/2025-01-07-method-and-system-for-network-handover-on-transport-layer-14
