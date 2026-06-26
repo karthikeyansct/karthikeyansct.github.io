@@ -34,7 +34,4 @@ The DBLP profile provides an extensive list of Karthikeyan Arunachalam's academi
 ### [Semantic Scholar Profile](https://www.semanticscholar.org/author/Karthikeyan-Arunachalam/50813997)
 The Semantic Scholar profile showcases Karthikeyan Arunachalam's most cited papers, research interests, and co-authors. It highlights his work in mobile computing and network protocols.
 
-### [AdScientificIndex Profile](https://www.adscientificindex.com/scientist/karthikeyan-arunachalam/4597477)
-The AdScientificIndex page highlights Karthikeyan Arunachalam’s academic and professional achievements, offering insights into his research impact and contributions.
-
 For more details about his research and publications, visit the provided links.
